@@ -1,8 +1,6 @@
 # ExpressStore
 
-CSCI5708 - Mobile Computing Project - Group 3
-
-ExpressStore - Self Checkout App created as part of Group Project
+## ExpressStore - Self Checkout App created as part of Group Project
 
 Abstract : Shopping is one unavoidable task that we have to do, and a lot of time
 gets wasted while shopping because of the long queues for checkout, sometimes 
